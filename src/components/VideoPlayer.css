@@ -1,0 +1,16 @@
+.video-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #222;
+  border: 4px solid #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+  overflow: hidden;
+  position: relative;
+}
+
+.custom-video-player {
+  width: 100%;
+}
